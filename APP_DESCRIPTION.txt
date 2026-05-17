@@ -1,0 +1,20 @@
+# Hey DJ — The Professional Mixing Console
+
+Transform your Android device into a high-fidelity DJ workstation. Hey DJ combines the tactile feel of classic hardware with a powerful C++ native audio engine for sub-millisecond latency and professional sound quality.
+
+## Two Ways to Mix
+- **Classic Layout**: A spacious, intuitive design perfect for beginners or smaller screens.
+- **Pro Layout (Premium)**: A high-density "Command Center" featuring rotary knobs, long-throw vertical EQ faders (100dp travel), and color-coded transport pads for ultimate control.
+
+## Professional Features
+- **High-Performance Native Engine**: Real-time stereo summing and synchronized deck mixing.
+- **Advanced DSP Effects**: Reverb, Echo, Flanger, Filter, Phaser, and more to shape your sound.
+- **Interactive Turntables**: Realistic vinyl rotation with high-precision scratching and manual beat-matching.
+- **Spectral Waveforms**: Three-band color-coded waveforms (Bass, Mids, Highs) for visual mixing.
+- **Studio Recording**: Capture your live sets in high-quality .m4a format directly to your device's Music folder.
+- **Custom Sampler & Drum Pad**: Trigger built-in or custom samples to spice up your performance.
+
+## Premium Experience
+Upgrade to Premium ($1.99/mo) to unlock the Pro Layout, access exclusive hardware-inspired themes (Metal, Glass, Wood), and enjoy a completely ad-free experience.
+
+Ready to drop the beat? Get Hey DJ and start your set today!
